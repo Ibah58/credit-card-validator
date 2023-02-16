@@ -1,4 +1,4 @@
-import math
+timport math
 
 # Main function
 def main():
